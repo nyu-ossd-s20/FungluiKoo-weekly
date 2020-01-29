@@ -5,15 +5,15 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Fenglei Gu
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2020
+description: Undergraduate @ NYU & SJTU
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/46607804?s=200&v=4
+avatar: https://blog.vrypan.net/2016/09/02/making-gitgub-part-of-my-publishing-workflow/labtocat.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
@@ -25,10 +25,10 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: fenglei.gu@nyu.edu
   facebook:
   flickr:
-  github: nyu-ossd-s20
+  github: FungluiKoo
   instagram:
   linkedin:
   pinterest:
@@ -43,14 +43,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s20.github.io/weekly"
+url: "https://i6.cims.nyu.edu/~fg1121/index.htm"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/FungluiKoo-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!

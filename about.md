@@ -7,8 +7,8 @@ Hi, I'm [Fenglei Gu](https://i6.cims.nyu.edu/~fg1121/index.htm), an undergraduat
 |Language|Proficiency|
 |  :-:   |  :-:      |
 | C      | Productive|
-| Chinese| Native    |
 | C++    | Productive|
+| Chinese| Native    |
 | English|Professional|
 | Java   | Beginner  |
 | Pascal | Beginner  |

@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+This is the class blog for the [Open Source Software Development](https://github.com/joannakl/ossd_s20) course offered by Prof. [Joanna Klukowska](https://cs.nyu.edu/~joannakl/) at [New York University](https://www.nyu.edu).

@@ -1,4 +1,4 @@
-Hi, I'm [Fenglei Gu](https://i6.cims.nyu.edu/~fg1121/index.htm), an undergraduate at [NYU](https://www.nyu.edu/) majoring in [Computer Science](https://cs.nyu.edu/home/index.html).
+Hi, I'm [Fenglei Gu](https://cs.nyu.edu/~fg1121), an undergraduate at [NYU](https://www.nyu.edu/) majoring in [Computer Science](https://cs.nyu.edu/home/index.html).
 
 
 

@@ -6,6 +6,9 @@ permalink: /contributions/
 
 | Date  | Contribution (Link)  | Type  | Description                        |
 |---|:---|:---|:---|
+| Apr 19 | [Lemmy](https://weblate.yerbamate.dev/projects/lemmy/lemmy/zh_Hans/#history) | translation data | I contributed some translation from English to Chinese Simplified |
+| Apr 19 | [Wikipedia](https://en.wikipedia.org/wiki/CGTN_(TV_channel)) | wiki page | Edited introdution to the CGTN |
+| Apr 13 | [OpenStreetMap](https://www.openstreetmap.org/changeset/83498022) | map data | Updated the area around Hupan University |
 | Apr 12 | [OpenStreetMap](https://www.openstreetmap.org/changeset/83434976) | map data | Updated the names of some subway stations in Qiantang New Area |
 | Apr 11 | [Wikipedia](https://zh.wikipedia.org/w/index.php?title=%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81%E6%9C%BA%E5%9C%BA%E5%BF%AB%E7%BA%BF&redirect=no) | wiki page | Added a Wikipedia entry |
 | Apr 11 | [OpenStreetMap](https://www.openstreetmap.org/changeset/83434561) | map data | Updated the names of some subway stations in Xiaoshan District |

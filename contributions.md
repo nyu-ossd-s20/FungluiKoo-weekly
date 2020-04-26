@@ -6,9 +6,9 @@ permalink: /contributions/
 
 | Date  | Contribution (Link)  | Type  | Description                        |
 |---|:---|:---|:---|
-| Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁) | wiki page | Updated due to the opening of new metro lines |
 | Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁5号线) | wiki page | Updated due to the opening of the remaining section of Hangzhou Metro Line 5 |
 | Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁16号线) | wiki page | Updated due to the opening of Hangzhou Metro Line 16 |
+| Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁) | wiki page | Updated due to the opening of new metro lines |
 | Apr 19 | [Lemmy](https://weblate.yerbamate.dev/projects/lemmy/lemmy/zh_Hans/#history) | translation data | I contributed some translation from English to Chinese Simplified |
 | Apr 19 | [Wikipedia](https://en.wikipedia.org/wiki/CGTN_(TV_channel)) | wiki page | Edited introdution to the CGTN |
 | Apr 13 | [OpenStreetMap](https://www.openstreetmap.org/changeset/83498022) | map data | Updated the area around Hupan University |

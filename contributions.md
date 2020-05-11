@@ -6,6 +6,7 @@ permalink: /contributions/
 
 | Date  | Contribution (Link)  | Type  | Description                        |
 |---|:---|:---|:---|
+| May 7 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁#.E7.BA.BF.E8.B7.AF.E9.A2.9C.E8.89.B2) | wiki page | Updated the colors of the metro lines |
 | Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁5号线) | wiki page | Updated due to the opening of the remaining section of Hangzhou Metro Line 5 |
 | Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁16号线) | wiki page | Updated due to the opening of Hangzhou Metro Line 16 |
 | Apr 22 | [Wikipedia](https://zh.wikipedia.org/wiki/杭州地铁) | wiki page | Updated due to the opening of new metro lines |
